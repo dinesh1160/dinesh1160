@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Software Engineer | Game Devolper | Linux User</p>
+<p align="left">Software Engineer | Game Devolper | Linux</p>
 
 ###
 
